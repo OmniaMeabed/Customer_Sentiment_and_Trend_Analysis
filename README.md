@@ -60,9 +60,8 @@ To facilitate deployment and streamline our machine learning operations (MLOps),
 By utilizing Azure, we ensured our sentiment analysis solution is scalable, accessible, and maintainable, setting the stage for future enhancements and updates.
 
 ## Team
-
-- [Alaa Sayed](https://github.com/A1aaSayed)
 - [Omnia Meabed](https://github.com/OmniaMeabed)
+- [Alaa Sayed](https://github.com/A1aaSayed)
 - [Omnia Samir](https://github.com/AsmaaMohamed2000)
 - [Asmaa Mohamed](https://github.com/omniasameer)
 - [Rana Yasser](https://github.com/rana6-12)
